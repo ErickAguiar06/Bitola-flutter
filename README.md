@@ -21,4 +21,8 @@ flutter run
 ## Prints 
 ![Calculadora](print.png)
 
-## Repositórios 
+## Repositórios
+
+[Avaliação IMC](https://github.com/ErickAguiar06/AvaliacaoIMC)
+[Financiamento - Flutter](https://github.com/ErickAguiar06/Financiamento-flutter)  
+[Investimentos - Flutter](https://github.com/ErickAguiar06/Investimentos-Flutter)
