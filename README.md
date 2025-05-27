@@ -23,6 +23,6 @@ flutter run
 
 ## Repositórios
 
-[Avaliação IMC](https://github.com/ErickAguiar06/AvaliacaoIMC)
+[Avaliação IMC](https://github.com/ErickAguiar06/AvaliacaoIMC)  
 [Financiamento - Flutter](https://github.com/ErickAguiar06/Financiamento-flutter)  
-[Investimentos - Flutter](https://github.com/ErickAguiar06/Investimentos-Flutter)
+[Avaliação IMC](https://github.com/ErickAguiar06/AvaliacaoIMC)
