@@ -1,5 +1,5 @@
 # App Calculo de Bitola
-Aplicativo de calculo de Bitola S
+Aplicativo de calculo de Bitola 
 
 ## Tecnologias
 - Flutter
