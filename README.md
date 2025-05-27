@@ -25,4 +25,5 @@ flutter run
 
 [Avaliação IMC](https://github.com/ErickAguiar06/AvaliacaoIMC)  
 [Financiamento - Flutter](https://github.com/ErickAguiar06/Financiamento-flutter)  
-[Avaliação IMC](https://github.com/ErickAguiar06/AvaliacaoIMC)
+[Investimentos - Flutter](https://github.com/ErickAguiar06/Investimentos-Flutter)
+
